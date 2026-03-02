@@ -1,0 +1,4 @@
+aiogram==3.18.0
+yt-dlp
+python-dotenv
+curl-cffi
