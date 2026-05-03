@@ -1,3 +1,5 @@
-.env
-video_yotube/
 __pycache__/
+*.pyc
+venv/
+video_yotube/
+.env
